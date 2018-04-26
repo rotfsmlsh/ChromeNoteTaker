@@ -6,5 +6,6 @@ Have a notepad that changes from domain to domain that allows a user to take not
 
 # Possibilities:
 ~ Integrate with Google Keep?
+
 ~ Save in Google Drive?
 
